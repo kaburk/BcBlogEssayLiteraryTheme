@@ -1,0 +1,2 @@
+﻿id,description,thanks,unpublish,sender_1,sender_2,sender_name,subject_user,subject_admin,form_template,mail_template,redirect_url,auth_captcha,widget_area,ssl_on,save_info,publish_begin,publish_end,created,modified
+1,<p>記事の感想や、書き手へのご連絡はこちらからどうぞ。いただいたお便りは、すべて読んでいます。</p>,<p>お便りをありがとうございました。ご入力のメールアドレスに、受付確認のメールをお送りしました。</p><p>お返事まで、数日いただくことがあります。</p>,,,,サンプル日記帳,【サンプル日記帳】お問い合わせを受け付けました,【サンプル日記帳】新しいお問い合わせがありました,default,mail_default,,,,,1,,,,

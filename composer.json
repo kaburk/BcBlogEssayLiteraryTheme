@@ -1,0 +1,12 @@
+{
+    "name": "kaburk/bc-blog-essay-literary-theme",
+    "description": "Literary essay blog theme for baserCMS5 (one column, serif typography, author profile, light/dark mode)",
+    "homepage": "https://blog.kaburk.com/",
+    "type": "cakephp-plugin",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "BcBlogEssayLiteraryTheme\\": "src/"
+        }
+    }
+}
